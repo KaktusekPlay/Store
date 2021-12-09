@@ -1,3 +1,3 @@
-# angular-zooykp
+# Kaktusek Play Obchod 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-zooykp)
+[Develop by jozo ⚡️](https://github.com/Jozo233)
