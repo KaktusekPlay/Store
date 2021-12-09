@@ -1,2 +1,0 @@
-# Store
-Obchod s VIP
