@@ -9,25 +9,19 @@ export const products = [
   {
     id: 1,
     name: 'Iron VIP',
-    price: 799,
+    price: 40,
     description: 'Iron vip na kaktusku play!!',
   },
   {
     id: 2,
     name: 'Gold VIP',
-    price: 699,
+    price: 60,
     description: 'Gold VIP na kaktusku play!!',
   },
   {
     id: 3,
     name: 'Diamond VIP',
-    price: 299,
+    price: 90,
     description: 'Diamond VIP na kaktusku play',
   },
 ];
-
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
